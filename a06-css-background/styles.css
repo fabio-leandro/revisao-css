@@ -1,0 +1,20 @@
+.bck-color{
+    background-color: rgba(49, 243, 10);
+    width: 400px;
+    height: 300px;
+}
+
+.bck-img{
+    background-image: url(./bck-imagem.jpg);
+    width: 900px;
+    height: 300px;
+
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.bck-img2{
+    height: 300px;
+    background: gray url(./bck-imagem.jpg) no-repeat center;
+}

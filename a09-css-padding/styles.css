@@ -1,0 +1,15 @@
+.btn-1{
+    color: #ffffff;
+    background-color: blue;
+    width: 200px;
+    height: 60px;
+    padding: 40px 20px 45px 70px;
+}
+
+.btn-2{
+    color: #ffffff;
+    background-color: green;
+    width: 150px;
+    height: 60px;
+    padding: 100px 20px;
+}

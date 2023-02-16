@@ -1,0 +1,28 @@
+.img1{
+    opacity: 1;
+}
+
+.img2{
+    opacity: 0.6;
+}
+
+.img3{
+    opacity: 0.3;
+}
+
+a{
+    text-decoration: none;
+    border: 2px dotted gray;
+    background-color: black;
+}
+
+a:hover{
+    opacity: 0.4;
+}
+
+.transparente{
+    margin-top: 5px;
+    border: 1px double blue;
+    background-color: yellow;
+    opacity: 0.6;
+}

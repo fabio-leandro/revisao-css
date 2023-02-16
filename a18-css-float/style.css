@@ -1,0 +1,14 @@
+img{
+    width: 150px;
+    height: 200px;
+    float: left;
+}
+
+.container{
+    border: 1px solid blue;
+}
+
+li{
+    list-style: none;
+    display: inline-block;
+}

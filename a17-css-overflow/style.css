@@ -1,0 +1,19 @@
+.exemplo1{
+    background-color: peru;
+    width: 300px;
+    height: 100px;
+    overflow: hidden;
+    
+}
+
+.exemplo2{
+    background-color: peru;
+    width: 600px;
+    height: 100px;
+    overflow: scroll;
+}
+
+body{
+    overflow-y: hidden;
+    overflow-x: scroll;
+}

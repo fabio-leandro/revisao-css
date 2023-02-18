@@ -1,0 +1,83 @@
+h1{
+    text-shadow: 2px 2px 5px #f00000;
+}
+
+.branco{
+    color: white;
+    text-shadow:  2px 2px 4px black;
+}
+
+.multiplo{
+    color: black;
+    text-shadow: 0 0 10px #ff0000, 2px 2px 5px #fff888;
+}
+
+.caixa{
+    width: 100%;
+    height: 300px;
+    background-color: green;
+    box-shadow: 10px 10px 10px yellow;
+}
+
+.c1{
+    background-color: lightblue;
+    width: 200px;
+    height: 200px;
+    box-shadow: 10px 10px grey;
+}
+
+.c2{
+    background-color: lightblue;
+    width: 200px;
+    height: 200px;
+    box-shadow: 50px 50px grey;
+}
+
+.c3{
+    background-color: lightblue;
+    width: 200px;
+    height: 200px;
+    box-shadow: 20px 20px 10px grey;
+}
+
+.c4{
+    background-color: lightblue;
+    width: 200px;
+    height: 200px;
+    box-shadow: 20px 20px 50px grey;
+}
+
+.c5{
+    background-color: lightblue;
+    width: 200px;
+    height: 200px;
+    box-shadow: 20px 20px 50px 15px grey;
+}
+
+.c6{
+    background-color: lightblue;
+    width: 200px;
+    height: 200px;
+    box-shadow: 20px 20px 20px 10px red;
+}
+
+.c7{
+    background-color: lightblue;
+    width: 200px;
+    height: 200px;
+    box-shadow: 20px 20px 20px 10px blue;
+}
+
+.c8{
+    background-color: lightblue;
+    width: 200px;
+    height: 200px;
+    box-shadow: 20px 20px 50px 10px pink inset;
+}
+
+.c9{
+    background-color: lightblue;
+    width: 200px;
+    height: 200px;
+    box-shadow: none;
+}

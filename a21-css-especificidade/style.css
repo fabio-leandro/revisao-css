@@ -1,0 +1,15 @@
+h1{
+    background-color: blue;
+}
+
+h1.classe{
+    background-color: yellow;
+}
+
+.classe{
+    background-color: red;
+}
+
+#titulo{
+    background-color: blueviolet;
+}

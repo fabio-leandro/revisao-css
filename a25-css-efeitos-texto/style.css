@@ -1,0 +1,20 @@
+.card{
+    background-color: yellow;
+    width: 200px;
+    height: 400px;
+}
+
+.reduzido{
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin: 0 0;
+}
+
+.card:hover .reduzido{
+    white-space: normal;
+}
+
+p{
+    background-color: yellow;
+}

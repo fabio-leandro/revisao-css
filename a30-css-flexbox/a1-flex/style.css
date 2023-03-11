@@ -3,10 +3,13 @@ body{
 }
 
 .container{
-   max-width: 500px;
+   max-width: 600px;
+   height: 400px;
    margin: 0 auto;
    border: 1px solid #000;
    display: flex;
+   justify-content: center;
+   align-content: space-between;
 }
 
 .item{
@@ -16,4 +19,18 @@ body{
     text-align: center;
     font-size: 1em;
     color: #fff;
+    height: 50px;
+    flex-basis: 1;
+}
+
+.tm1{
+    flex-grow: 1;
+}
+
+.tm2{
+    flex-grow: 1;
+}
+
+.tm3{
+    flex-grow: 10;
 }
